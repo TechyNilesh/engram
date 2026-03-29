@@ -28,16 +28,19 @@ An **engram** (from the Greek *engramma*, "that which is written on") is the neu
 
 ## 6. How Engram Compares to Existing Tools
 
-Each system invents its own concept of "memory":
+| Dimension | Mem0 | Zep | Letta/MemGPT | LangChain Memory | **Engram** |
+|-----------|------|-----|-------------|-----------------|-----------|
+| Common memory schema | ❌ Proprietary | ❌ Proprietary | ❌ Proprietary | ❌ Per-pattern | ✅ Canonical |
+| Episodic / Semantic / Procedural types | Partial | Partial | Partial (tiers) | Partial | ✅ First-class |
+| Pluggable backends | Limited | No | No | Partial | ✅ Driver interface |
+| Declarative lifecycle policies | Partial | No | No | No | ✅ YAML DSL |
+| Retrieval traces / explainability | Dashboard only | No | ADE (runtime-only) | No | ✅ Built-in API |
+| Right-to-be-forgotten workflow | Cloud tier | No | No | No | ✅ Policy-driven |
+| Framework-agnostic | Mostly | Yes (API) | No | No | ✅ By design |
+| Built-in test harness | No | No | No | No | ✅ `MemoryHarness` |
+| Benchmark suite | LOCOMO (partial) | DMR, LongMemEval | DMR | No | ✅ Multi-suite |
+| Composable with others | Partial | No | No | No | ✅ Wraps Mem0/Zep |
 
-| System | Memory Concept | Lock-in |
-|--------|---------------|---------|
-| Mem0 | Multi-level KV + vector hybrid | Mem0 API / SDK |
-| Zep | Temporal knowledge graph (Graphiti) | Zep server + Graphiti library |
-| Letta/MemGPT | OS-style tiered pages (core/recall/archival) | Letta runtime |
-| LangChain | Buffer / summary / entity / vector / KG patterns | LangChain abstractions |
-| LlamaIndex | Composable memory blocks (static, fact, vector) | LlamaIndex agents |
-| AutoGen | Pluggable backends (Chroma, Redis, Mem0, Zep) | AutoGen agents |
 
 ## Features
 
