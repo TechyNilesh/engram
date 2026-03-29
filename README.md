@@ -22,6 +22,31 @@
   <img src="https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python 3.10+" />
 </p>
 
+## Why Engram
+
+An **engram** (from the Greek *engramma*, "that which is written on") is the neuroscience term for the physical trace a memory leaves in the brain. The name maps directly to this project goal: structured, durable, queryable memory for AI agents.
+
+### Alternative Names Considered
+
+| Name | Origin | Vibe |
+| --- | --- | --- |
+| **Engram** | Neuroscience memory trace | Precise, scientific, memorable |
+| Mneme | Greek muse of memory | Elegant, minimal |
+| Loci | Method of loci | Spatial, classical |
+| Eidetic | Perfect recall | Aspirational |
+| Palimpsest | Layered rewritten manuscript | Poetic, layered memory metaphor |
+
+## Ecosystem Comparison
+
+| System | Memory Concept | Lock-in |
+| --- | --- | --- |
+| Mem0 | Multi-level KV + vector hybrid | Mem0 API / SDK |
+| Zep | Temporal knowledge graph (Graphiti) | Zep server + Graphiti library |
+| Letta / MemGPT | OS-style tiered pages (core / recall / archival) | Letta runtime |
+| LangChain | Buffer / summary / entity / vector / KG patterns | LangChain abstractions |
+| LlamaIndex | Composable memory blocks (static, fact, vector) | LlamaIndex agents |
+| AutoGen | Pluggable backends (Chroma, Redis, Mem0, Zep) | AutoGen agents |
+
 ## Features
 
 - Canonical `MemoryRecord` schema for episodic, semantic, procedural, and meta memory
