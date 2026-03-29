@@ -26,7 +26,7 @@
 
 An **engram** (from the Greek *engramma*, "that which is written on") is the neuroscience term for the physical trace a memory leaves in the brain. The name maps directly to this project goal: structured, durable, queryable memory for AI agents.
 
-## 6. How Engram Compares to Existing Tools
+## How Engram Compares to Existing Tools
 
 | Dimension | Mem0 | Zep | Letta/MemGPT | LangChain Memory | **Engram** |
 |-----------|------|-----|-------------|-----------------|-----------|
