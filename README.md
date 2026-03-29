@@ -1,24 +1,26 @@
 <p align="center">
   <img
-    src="assets/engram_logo.png"
+    src="./assets/engram_logo.png"
     alt="Engram logo"
-    width="160"
+    width="220"
   />
 </p>
 
 <p align="center"><strong>The Open-Source Agent Memory Framework</strong></p>
 
-<a href="https://github.com/TechyNilesh/engram">
-  <img src="https://img.shields.io/github/last-commit/TechyNilesh/engram?style=for-the-badge" alt="Last commit" />
-</a>
-<a href="https://github.com/TechyNilesh/engram/stargazers">
-  <img src="https://img.shields.io/github/stars/TechyNilesh/engram?style=for-the-badge" alt="GitHub stars" />
-</a>
-<a href="https://pypi.org/project/engram/">
-  <img src="https://img.shields.io/pepy/dt/engram?style=for-the-badge" alt="Total downloads" />
-</a>
-<img src="https://img.shields.io/badge/status-alpha-orange?style=for-the-badge" alt="Project status" />
-<img src="https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python 3.10+" />
+<p align="center">
+  <a href="https://github.com/TechyNilesh/engram">
+    <img src="https://img.shields.io/github/last-commit/TechyNilesh/engram?style=for-the-badge" alt="Last commit" />
+  </a>
+  <a href="https://github.com/TechyNilesh/engram/stargazers">
+    <img src="https://img.shields.io/github/stars/TechyNilesh/engram?style=for-the-badge" alt="GitHub stars" />
+  </a>
+  <a href="https://github.com/TechyNilesh/engram/issues">
+    <img src="https://img.shields.io/github/issues/TechyNilesh/engram?style=for-the-badge" alt="Open issues" />
+  </a>
+  <img src="https://img.shields.io/badge/status-alpha-orange?style=for-the-badge" alt="Project status" />
+  <img src="https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python 3.10+" />
+</p>
 
 ## Features
 
