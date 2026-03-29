@@ -26,13 +26,15 @@
 
 An **engram** (from the Greek *engramma*, "that which is written on") is the neuroscience term for the physical trace a memory leaves in the brain. The name maps directly to this project goal: structured, durable, queryable memory for AI agents.
 
-## Ecosystem Comparison
+## 6. How Engram Compares to Existing Tools
+
+Each system invents its own concept of "memory":
 
 | System | Memory Concept | Lock-in |
-| --- | --- | --- |
+|--------|---------------|---------|
 | Mem0 | Multi-level KV + vector hybrid | Mem0 API / SDK |
 | Zep | Temporal knowledge graph (Graphiti) | Zep server + Graphiti library |
-| Letta / MemGPT | OS-style tiered pages (core / recall / archival) | Letta runtime |
+| Letta/MemGPT | OS-style tiered pages (core/recall/archival) | Letta runtime |
 | LangChain | Buffer / summary / entity / vector / KG patterns | LangChain abstractions |
 | LlamaIndex | Composable memory blocks (static, fact, vector) | LlamaIndex agents |
 | AutoGen | Pluggable backends (Chroma, Redis, Mem0, Zep) | AutoGen agents |
