@@ -12,12 +12,16 @@
 
 <p align="center">
   <a href="https://github.com/TechyNilesh/engram">
-    <img src="https://img.shields.io/badge/GitHub-TechyNilesh%2Fengram-181717?logo=github" alt="GitHub repository" />
+    <img src="https://img.shields.io/github/last-commit/TechyNilesh/engram?style=for-the-badge" alt="Last commit" />
   </a>
-  <a href="https://github.com/TechyNilesh/engram">
-    <img src="https://img.shields.io/badge/status-MVP-2ea44f" alt="Project status" />
+  <a href="https://github.com/TechyNilesh/engram/stargazers">
+    <img src="https://img.shields.io/github/stars/TechyNilesh/engram?style=for-the-badge" alt="GitHub stars" />
   </a>
-  <img src="https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white" alt="Python 3.10+" />
+  <a href="https://github.com/TechyNilesh/engram/issues">
+    <img src="https://img.shields.io/github/issues/TechyNilesh/engram?style=for-the-badge" alt="Open issues" />
+  </a>
+  <img src="https://img.shields.io/badge/status-MVP-2ea44f?style=for-the-badge" alt="Project status" />
+  <img src="https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python 3.10+" />
 </p>
 
 ## Features
