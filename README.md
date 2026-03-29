@@ -1,6 +1,26 @@
-# Engram
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/TechyNilesh/engram/main/engram_logo.png"
+    alt="Engram logo"
+    width="220"
+  />
+</p>
 
-Framework-agnostic agent memory for Python: canonical memory records, policy-driven lifecycle rules, pluggable storage, and retrieval observability.
+<h1 align="center">Engram</h1>
+
+<p align="center">
+  <a href="https://github.com/TechyNilesh/engram">
+    <img src="https://img.shields.io/badge/GitHub-TechyNilesh%2Fengram-181717?logo=github" alt="GitHub repository" />
+  </a>
+  <a href="https://github.com/TechyNilesh/engram">
+    <img src="https://img.shields.io/badge/status-MVP-2ea44f" alt="Project status" />
+  </a>
+  <img src="https://img.shields.io/badge/python-3.9%2B-3776AB?logo=python&logoColor=white" alt="Python 3.9+" />
+</p>
+
+<p align="center">
+  Framework-agnostic agent memory for Python: canonical memory records, policy-driven lifecycle rules, pluggable storage, and retrieval observability.
+</p>
 
 ## Features
 
