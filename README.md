@@ -1,8 +1,10 @@
-<img
-  src="assets/engram_logo.png"
-  alt="Engram logo"
-  width="160"
-/>
+<p align="center">
+  <img
+    src="assets/engram_logo.png"
+    alt="Engram logo"
+    width="160"
+  />
+</p>
 
 <p align="center"><strong>The Open-Source Agent Memory Framework</strong></p>
 
