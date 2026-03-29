@@ -1,28 +1,22 @@
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/TechyNilesh/engram/main/engram_logo.png"
-    alt="Engram logo"
-    width="220"
-  />
-</p>
+<img
+  src="https://raw.githubusercontent.com/TechyNilesh/engram/main/assets/engram_logo.png"
+  alt="Engram logo"
+  width="160"
+/>
 
-<p align="center">
-  <strong>The Open-Source Agent Memory Framework</strong>
-</p>
+<p align="center"><strong>The Open-Source Agent Memory Framework</strong></p>
 
-<p align="center">
-  <a href="https://github.com/TechyNilesh/engram">
-    <img src="https://img.shields.io/github/last-commit/TechyNilesh/engram?style=for-the-badge" alt="Last commit" />
-  </a>
-  <a href="https://github.com/TechyNilesh/engram/stargazers">
-    <img src="https://img.shields.io/github/stars/TechyNilesh/engram?style=for-the-badge" alt="GitHub stars" />
-  </a>
-  <a href="https://github.com/TechyNilesh/engram/issues">
-    <img src="https://img.shields.io/github/issues/TechyNilesh/engram?style=for-the-badge" alt="Open issues" />
-  </a>
-  <img src="https://img.shields.io/badge/status-MVP-2ea44f?style=for-the-badge" alt="Project status" />
-  <img src="https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python 3.10+" />
-</p>
+<a href="https://github.com/TechyNilesh/engram">
+  <img src="https://img.shields.io/github/last-commit/TechyNilesh/engram?style=for-the-badge" alt="Last commit" />
+</a>
+<a href="https://github.com/TechyNilesh/engram/stargazers">
+  <img src="https://img.shields.io/github/stars/TechyNilesh/engram?style=for-the-badge" alt="GitHub stars" />
+</a>
+<a href="https://pypi.org/project/engram/">
+  <img src="https://img.shields.io/pepy/dt/engram?style=for-the-badge" alt="Total downloads" />
+</a>
+<img src="https://img.shields.io/badge/status-alpha-orange?style=for-the-badge" alt="Project status" />
+<img src="https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python 3.10+" />
 
 ## Features
 
@@ -285,21 +279,17 @@ python -m pytest -q
 
 ## Core Contributor
 
-<p align="center">
-  <a href="https://github.com/TechyNilesh">
-    <img
-      src="https://github.com/TechyNilesh.png?size=160"
-      alt="Nilesh Verma"
-      width="120"
-      style="border-radius: 50%;"
-    />
-  </a>
-</p>
+<a href="https://github.com/TechyNilesh">
+  <img
+    src="https://github.com/TechyNilesh.png?size=160"
+    alt="Nilesh Verma"
+    width="60"
+    style="border-radius: 50%;"
+  />
+</a>
 
-<p align="center">
-  <strong>Nilesh Verma</strong><br />
-  Core Contributor
-</p>
+**Nilesh Verma**<br />
+Core Contributor
 
 ## Citation
 

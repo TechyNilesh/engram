@@ -1,8 +1,66 @@
-.DS_Store
-.pytest_cache/
-.venv/
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
 *.pyo
 *.pyd
-Engram — The Open-Source Agent Memory Framework.md
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+
+# Type checking
+.mypy_cache/
+.dmypy.json
+.pytype/
+
+# IDE / editors
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Build artifacts
+*.mo
+*.pot
+
+# Docs / planning
+"Engram — The Open-Source Agent Memory Framework.md"
+
+# Local config and secrets
+.env
+.env.*
+!.env.example
+engram.yaml
+*.db
+*.sqlite
+
+# Distribution
+*.tar.gz
+*.whl
+MANIFEST
