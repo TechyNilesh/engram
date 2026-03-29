@@ -1,5 +1,5 @@
 <img
-  src="https://raw.githubusercontent.com/TechyNilesh/engram/main/assets/engram_logo.png"
+  src="assets/engram_logo.png"
   alt="Engram logo"
   width="160"
 />
@@ -289,7 +289,6 @@ python -m pytest -q
 </a>
 
 **Nilesh Verma**<br />
-Core Contributor
 
 ## Citation
 
