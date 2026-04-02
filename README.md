@@ -12,9 +12,6 @@
   <a href="https://github.com/TechyNilesh/EngramX">
     <img src="https://img.shields.io/github/last-commit/TechyNilesh/EngramX?style=for-the-badge" alt="Last commit" />
   </a>
-  <a href="https://github.com/TechyNilesh/EngramX/stargazers">
-    <img src="https://img.shields.io/github/stars/TechyNilesh/EngramX?style=for-the-badge" alt="GitHub stars" />
-  </a>
   <a href="https://pypi.org/project/engramx/">
     <img src="https://img.shields.io/pypi/v/engramx?style=for-the-badge" alt="PyPI version" />
   </a>
