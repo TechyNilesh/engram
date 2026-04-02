@@ -5,9 +5,26 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "engramx"
 version = "0.1.0"
-description = "Framework-agnostic agent memory layer with policies, observability, and pluggable storage"
+description = "EngramX — The open-source agent memory framework with pluggable storage, lifecycle policies, observability, and framework adapters."
+readme = "README.md"
+license = "MIT"
+authors = [
+    { name = "Nilesh Verma", email = "me@nileshverma.com" }
+]
 requires-python = ">=3.10"
 dependencies = ["PyYAML>=6.0"]
+keywords = ["ai", "agents", "memory", "llm", "langchain", "llamaindex", "autogen", "rag", "vector-search"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python :: 3",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+
+[project.urls]
+Homepage = "https://github.com/TechyNilesh/EngramX"
+Repository = "https://github.com/TechyNilesh/EngramX"
+Issues = "https://github.com/TechyNilesh/EngramX/issues"
 
 [project.optional-dependencies]
 dev = ["pytest>=8.0", "pytest-asyncio>=0.23"]
