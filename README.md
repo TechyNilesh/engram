@@ -16,6 +16,9 @@
     <img src="https://img.shields.io/github/stars/TechyNilesh/EngramX?style=for-the-badge" alt="GitHub stars" />
   </a>
   <a href="https://pypi.org/project/engramx/">
+    <img src="https://img.shields.io/pypi/v/engramx?style=for-the-badge" alt="PyPI version" />
+  </a>
+  <a href="https://pepy.tech/project/engramx">
     <img src="https://img.shields.io/pepy/dt/engramx?style=for-the-badge" alt="Total downloads" />
   </a>
   <img src="https://img.shields.io/badge/status-alpha-orange?style=for-the-badge" alt="Project status" />
